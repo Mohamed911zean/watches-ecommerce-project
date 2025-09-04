@@ -8,7 +8,7 @@ import SingleWatchPage from './SingleWatchPage.jsx';
 
 const App = () => {
   return (
-    <BrowserRouter >
+    <BrowserRouter basename="/watches-ecommerce-project">
       <NavBar />
 
       <Routes>
