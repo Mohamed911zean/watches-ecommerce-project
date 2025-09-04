@@ -3,357 +3,357 @@
     {
       "id": 1,
       "name": "Casio-Collection-LTR",
-      "img": "/Casio-Collection-LTR.webp",
+      "img": "Casio-Collection-LTR.webp",
       "price": "$69",
       "description": "Everyday-ready Casio LTR with a slim profile and classic dial—reliable quartz accuracy at a great value."
     },
     {
       "id": 2,
       "name": "Casio-Collection",
-      "img": "/Casio-Collection.webp",
+      "img": "Casio-Collection.webp",
       "price": "$59",
       "description": "A timeless Casio staple combining durability and simplicity—perfect for daily wear without the fuss."
     },
     {
       "id": 3,
       "name": "Casion-Collection-LTP",
-      "img": "/Casion-Collection-LTP.webp",
+      "img": "Casion-Collection-LTP.webp",
       "price": "$55",
       "description": "Lightweight Casio LTP with a sleek silhouette and easy-to-read display for effortless style."
     },
     {
       "id": 4,
       "name": "Citiczen-Promaster",
-      "img": "/Citiczen-Promaster.webp",
+      "img": "Citiczen-Promaster.webp",
       "price": "$450",
       "description": "Citizen Promaster performance—sporty design, dependable movement, and adventure-ready construction."
     },
     {
       "id": 5,
       "name": "Citizen-Elgant",
-      "img": "/Citizen-Elgant.webp",
+      "img": "Citizen-Elgant.webp",
       "price": "$220",
       "description": "Refined Citizen elegance with a minimalist dial—versatile for the office or evening out."
     },
     {
       "id": 6,
       "name": "Citizen-SuperTitanuim",
-      "img": "/Citizen-SuperTitanuim.webp",
+      "img": "Citizen-SuperTitanuim.webp",
       "price": "$650",
       "description": "Ultra-light Super Titanium case from Citizen—scratch-resistant comfort with premium finish."
     },
     {
       "id": 7,
       "name": "Citizen-tyousa",
-      "img": "/Citizen-tyousa.webp",
+      "img": "Citizen-tyousa.webp",
       "price": "$180",
       "description": "Citizen design with clean lines and everyday practicality—built for reliability and ease."
     },
     {
       "id": 8,
       "name": "Fossil-Machine",
-      "img": "/Fossil-Machine.webp",
+      "img": "Fossil-Machine.webp",
       "price": "$170",
       "description": "Bold industrial styling from Fossil’s Machine line—rugged, modern, and statement-making."
     },
     {
       "id": 9,
       "name": "Fossil-Minimalist",
-      "img": "/Fossil-Minimalist.webp",
+      "img": "Fossil-Minimalist.webp",
       "price": "$140",
       "description": "Sleek Minimalist by Fossil—ultra-clean dial and slim case for a contemporary, dress-ready look."
     },
     {
       "id": 10,
       "name": "Fossil-Neutra",
-      "img": "/Fossil-Neutra.webp",
+      "img": "Fossil-Neutra.webp",
       "price": "$160",
       "description": "Balanced and versatile—Fossil Neutra blends classic cues with modern proportions."
     },
     {
       "id": 11,
       "name": "Fossil-Relay",
-      "img": "/Fossil-Relay.webp",
+      "img": "Fossil-Relay.webp",
       "price": "$150",
       "description": "Sporty Fossil Relay with crisp indices and everyday durability—easy to dress up or down."
     },
     {
       "id": 12,
       "name": "Fossil-The-Minimalist",
-      "img": "/Fossil-The-Minimalist.webp",
+      "img": "Fossil-The-Minimalist.webp",
       "price": "$130",
       "description": "Refined simplicity—The Minimalist keeps it clean and stylish for any occasion."
     },
     {
       "id": 13,
       "name": "Fossil-jaqualino",
-      "img": "/Fossil-jaqualino.webp",
+      "img": "Fossil-jaqualino.webp",
       "price": "$120",
       "description": "Casual Fossil charm with a playful twist—comfortable on the wrist, effortless in style."
     },
     {
       "id": 14,
       "name": "Nomos-Club",
-      "img": "/Nomos-Club.webp",
+      "img": "Nomos-Club.webp",
       "price": "$1,700",
       "description": "Bauhaus-inspired NOMOS Club—crisp typography, German precision, and understated sophistication."
     },
     {
       "id": 15,
       "name": "Nomos-Tangente",
-      "img": "/Nomos-Tangente.webp",
+      "img": "Nomos-Tangente.webp",
       "price": "$2,100",
       "description": "Iconic NOMOS Tangente with slender lugs and a perfectly balanced dial—minimalism at its finest."
     },
     {
       "id": 16,
       "name": "Omega-Seamaster",
-      "img": "/Omega-Seamaster.avif",
+      "img": "Omega-Seamaster.avif",
       "price": "$6,500",
       "description": "Legendary Omega Seamaster—diver heritage, premium finishing, and everyday luxury capability."
     },
     {
       "id": 17,
       "name": "Oris-Aquis-7587432",
-      "img": "/Oris-Aquis-7587432.webp",
+      "img": "Oris-Aquis-7587432.webp",
       "price": "$2,600",
       "description": "Oris Aquis diver with robust build and modern styling—engineered for depth and daily wear."
     },
     {
       "id": 18,
       "name": "Oris-Aquis-777539",
-      "img": "/Oris-Aquis-777539.webp",
+      "img": "Oris-Aquis-777539.webp",
       "price": "$2,400",
       "description": "Purpose-built Oris Aquis—precise, durable, and ready for open-water adventures."
     },
     {
       "id": 19,
       "name": "Oris-BigCrown",
-      "img": "/Oris-BigCrown.webp",
+      "img": "Oris-BigCrown.webp",
       "price": "$2,100",
       "description": "Vintage aviation charm—Oris Big Crown with oversized crown and legible, classic dial."
     },
     {
       "id": 20,
       "name": "PualRich-Astro",
-      "img": "/PualRich-Astro.webp",
+      "img": "PualRich-Astro.webp",
       "price": "$210",
       "description": "Pual Rich Astro with a geometric dial and bold aesthetic—eye-catching and contemporary."
     },
     {
       "id": 21,
       "name": "PualRich-DiamondAstro",
-      "img": "/PualRich-DiamondAstro.webp",
+      "img": "PualRich-DiamondAstro.webp",
       "price": "$250",
       "description": "Sparkle-forward Diamond Astro—standout detailing for a striking, fashion-forward presence."
     },
     {
       "id": 22,
       "name": "PualRich-FrostedApollo",
-      "img": "/PualRich-FrostedApollo.webp",
+      "img": "PualRich-FrostedApollo.webp",
       "price": "$230",
       "description": "Frosted Apollo texture meets modern design—distinctive finishing with everyday versatility."
     },
     {
       "id": 23,
       "name": "PualRich-FrostedStar",
-      "img": "/PualRich-FrostedStar.webp",
+      "img": "PualRich-FrostedStar.webp",
       "price": "$220",
       "description": "Shimmering Frosted Star dial that catches the light—bold style without the premium price."
     },
     {
       "id": 24,
       "name": "PualRich-GoldGrenn",
-      "img": "/PualRich-GoldGrenn.webp",
+      "img": "PualRich-GoldGrenn.webp",
       "price": "$200",
       "description": "Gold and green palette for a luxe look—Pual Rich brings standout color and polish."
     },
     {
       "id": 25,
       "name": "PualRich-MercerStar",
-      "img": "/PualRich-MercerStar.webp",
+      "img": "PualRich-MercerStar.webp",
       "price": "$190",
       "description": "Mercer Star by Pual Rich—sharp lines and a modern case for everyday statement style."
     },
     {
       "id": 26,
       "name": "PualRich-Moonphase",
-      "img": "/PualRich-Moonphase.webp",
+      "img": "PualRich-Moonphase.webp",
       "price": "$260",
       "description": "Elegant moonphase complication brings celestial charm to a contemporary Pual Rich design."
     },
     {
       "id": 27,
       "name": "ROlex-DayDate",
-      "img": "/ROlex-DayDate.jpg",
+      "img": "ROlex-DayDate.jpg",
       "price": "$38,000",
       "description": "Rolex Day-Date prestige—signature day and date windows with unmistakable executive presence."
     },
     {
       "id": 28,
       "name": "Rolex-AirKing",
-      "img": "/Rolex-AirKing.jpg",
+      "img": "Rolex-AirKing.jpg",
       "price": "$7,500",
       "description": "Aviation-inspired Rolex Air-King—bold minute markers and legendary reliability."
     },
     {
       "id": 29,
       "name": "Rolex-Date",
-      "img": "/Rolex-Date.jpg",
+      "img": "Rolex-Date.jpg",
       "price": "$9,000",
       "description": "Classic Rolex Date—clean dial, Cyclops magnifier, and timeless Oyster appeal."
     },
     {
       "id": 30,
       "name": "Rolex-Daytona",
-      "img": "/Rolex-Daytona.jpg",
+      "img": "Rolex-Daytona.jpg",
       "price": "$28,000",
       "description": "Iconic chronograph—Rolex Daytona merges motorsport heritage with luxury craftsmanship."
     },
     {
       "id": 31,
       "name": "Rolex-Exploree",
-      "img": "/Rolex-Exploree.jpg",
+      "img": "Rolex-Exploree.jpg",
       "price": "$9,500",
       "description": "Explorer spirit—Rolex Exploree features bold numerals and a ready-for-anything tool-watch build."
     },
     {
       "id": 32,
       "name": "Rolex-GMTMaster",
-      "img": "/Rolex-GMTMaster.jpg",
+      "img": "Rolex-GMTMaster.jpg",
       "price": "$12,500",
       "description": "Travel-ready Rolex GMT-Master with dual-time bezel—functional, collectible, and refined."
     },
     {
       "id": 33,
       "name": "Rolex-LadyDateJust",
-      "img": "/Rolex-LadyDateJust.jpg",
+      "img": "Rolex-LadyDateJust.jpg",
       "price": "$8,500",
       "description": "Elegant Lady-Datejust—compact Rolex luxury with the signature date window."
     },
     {
       "id": 34,
       "name": "Rolex-SeaDwelar",
-      "img": "/Rolex-SeaDwelar.jpg",
+      "img": "Rolex-SeaDwelar.jpg",
       "price": "$14,000",
       "description": "Deep-sea engineered—Rolex Sea-Dweller brings professional-grade diving performance and robustness."
     },
     {
       "id": 35,
       "name": "Rolex-Submariner",
-      "img": "/Rolex-Submariner.jpg",
+      "img": "Rolex-Submariner.jpg",
       "price": "$12,000",
       "description": "The definitive dive watch—Rolex Submariner pairs iconic design with everyday luxury."
     },
     {
       "id": 36,
       "name": "Rolex-YachtMaster",
-      "img": "/Rolex-YachtMaster.jpg",
+      "img": "Rolex-YachtMaster.jpg",
       "price": "$13,000",
       "description": "Nautical elegance—Rolex Yacht-Master blends sport function with refined coastal style."
     },
     {
       "id": 37,
       "name": "Tissot-Gentleman-Powermatic",
-      "img": "/Tissot-Gentleman-Powermatic.webp",
+      "img": "Tissot-Gentleman-Powermatic.webp",
       "price": "$725",
       "description": "Swiss-made Tissot Gentleman with Powermatic movement—dressy, modern, and highly wearable."
     },
     {
       "id": 38,
       "name": "Tissot-PR-100",
-      "img": "/Tissot-PR-100.webp",
+      "img": "Tissot-PR-100.webp",
       "price": "$350",
       "description": "Tissot PR 100—clean aesthetic, reliable Swiss timekeeping, and everyday versatility."
     },
     {
       "id": 39,
       "name": "Tissot-PR516",
-      "img": "/Tissot-PR516.webp",
+      "img": "Tissot-PR516.webp",
       "price": "$425",
       "description": "Retro-sport PR516 cues with a modern twist—motorsport heritage you can wear daily."
     },
     {
       "id": 40,
       "name": "Tissot-PRX",
-      "img": "/Tissot-PRX.webp",
+      "img": "Tissot-PRX.webp",
       "price": "$650",
       "description": "Hype-worthy Tissot PRX—integrated bracelet, sharp case lines, and vintage-inspired cool."
     },
     {
       "id": 41,
       "name": "Tissot-Seastar",
-      "img": "/Tissot-Seastar.webp",
+      "img": "Tissot-Seastar.webp",
       "price": "$675",
       "description": "Tissot Seastar brings maritime styling with everyday durability and Swiss precision."
     },
     {
       "id": 42,
       "name": "bigotii-BG110503-5",
-      "img": "/bigotii-BG110503-5.webp",
+      "img": "bigotii-BG110503-5.webp",
       "price": "$120",
       "description": "Bold case lines with a modern dial texture—bigotii BG110503-5 stands out on the wrist."
     },
     {
       "id": 43,
       "name": "bigotti-BG110416-4",
-      "img": "/bigotti-BG110416-4.webp",
+      "img": "bigotti-BG110416-4.webp",
       "price": "$110",
       "description": "Everyday sport style from bigotti—clean layout with confident, contemporary proportions."
     },
     {
       "id": 44,
       "name": "bigotti-BG110516-4",
-      "img": "/bigotti-BG110516-4.webp",
+      "img": "bigotti-BG110516-4.webp",
       "price": "$115",
       "description": "Versatile bigotti BG110516-4—balanced design for casual to smart-casual looks."
     },
     {
       "id": 45,
       "name": "bigotti-BG110535-4",
-      "img": "/bigotti-BG110535-4.webp",
+      "img": "bigotti-BG110535-4.webp",
       "price": "$130",
       "description": "Confident angles and a crisp dial—bigotti BG110535-4 offers standout wrist presence."
     },
     {
       "id": 46,
       "name": "bigotti-BG110562-2",
-      "img": "/bigotti-BG110562-2.webp",
+      "img": "bigotti-BG110562-2.webp",
       "price": "$105",
       "description": "Sporty and budget-friendly—bigotti BG110562-2 delivers style without compromise."
     },
     {
       "id": 47,
       "name": "hertiag-watch",
-      "img": "/hertiag-watch.avif",
+      "img": "hertiag-watch.avif",
       "price": "$1,250",
       "description": "Heritage-inspired design with refined finishing—classic looks meet modern reliability."
     },
     {
       "id": 48,
       "name": "platunim-elite",
-      "img": "/platunim-elite.avif",
+      "img": "platunim-elite.avif",
       "price": "$2,800",
       "description": "Platinum-toned luxury aesthetic with a premium feel—sleek, polished, and upscale."
     },
     {
       "id": 49,
       "name": "royal-crown-2",
-      "img": "/royal-crown-2.avif",
+      "img": "royal-crown-2.avif",
       "price": "$350",
       "description": "Royal Crown 2—elegant casework and a confident dial for dress-up occasions."
     },
     {
       "id": 50,
       "name": "royal-crown",
-      "img": "/royal-crown.webp",
+      "img": "royal-crown.webp",
       "price": "$299",
       "description": "Classic Royal Crown styling with polished details—refined look at an accessible price."
     },
     {
       "id": 51,
       "name": "watch",
-      "img": "/watch.webp",
+      "img": "watch.webp",
       "price": "$399",
       "description": "A clean, modern everyday watch—balanced proportions and versatile styling for any wardrobe."
     }
